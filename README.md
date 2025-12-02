@@ -21,10 +21,15 @@ This project uses **MediaPipe Hand Tracking**, **OpenCV**, and Python logic for 
 
 ConstellationsGame/
 │── assets/ # Images, demo videos, UI elements
+---
 │── constellations.py # Contains constellation definitions / logic
+---
 │── utils.py # Helper functions (distance, drawing, etc.)
+---
 │── main.py # Application entry point (hand-tracking + logic)
+---
 │── requirements.txt # Python dependencies
+---
 │── README.md
 
 
