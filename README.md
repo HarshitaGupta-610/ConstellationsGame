@@ -13,7 +13,7 @@ A Hand-Tracking Interactive Constellation Creator using MediaPipe + OpenCV*
 This project uses **MediaPipe Hand Tracking**, **OpenCV**, and Python logic for selection paths.
 
 
- 🎥 Demo  
+ 🎥 Demo  - https://drive.google.com/file/d/1SCkXrsVjuyeZkiQsYmoTZJ3a58SHl0RE/view?usp=sharing
 
 
 
